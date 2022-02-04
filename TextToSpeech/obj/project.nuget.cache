@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q8aYaGA2kFfqGG0EBlzl22vDtwdlrnS+NH0YpfGXs1zHBnutuAybCNkXG2vX2l8qWEEbtnXO1xyVxDtHp5jkNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\51917267827.INFOSCS\\source\\repos\\TextToSpeech\\TextToSpeech\\TextToSpeech.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\51917267827.INFOSCS\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.20.0\\microsoft.cognitiveservices.speech.1.20.0.nupkg.sha512",
+    "C:\\Users\\51917267827.INFOSCS\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\51917267827.INFOSCS\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\51917267827.INFOSCS\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\51917267827.INFOSCS\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\51917267827.INFOSCS\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\51917267827.INFOSCS\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
